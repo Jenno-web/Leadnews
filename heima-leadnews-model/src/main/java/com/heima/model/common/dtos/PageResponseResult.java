@@ -1,4 +1,4 @@
-package com.heima.user.model.common.dtos;
+package com.heima.model.common.dtos;
 
 import java.io.Serializable;
 

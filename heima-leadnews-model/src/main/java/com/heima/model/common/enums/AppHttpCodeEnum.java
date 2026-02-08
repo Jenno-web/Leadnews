@@ -1,4 +1,4 @@
-package com.heima.user.model.common.enums;
+package com.heima.model.common.enums;
 
 public enum AppHttpCodeEnum {
 
