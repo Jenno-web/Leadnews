@@ -1,4 +1,4 @@
-package com.heima.utils.common;
+package com.heima.user.utils.common;
 
 import io.jsonwebtoken.*;
 
